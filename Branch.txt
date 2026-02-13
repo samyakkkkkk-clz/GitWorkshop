@@ -1,0 +1,5 @@
+Branch Steps:
+1. Check Branches: git branch
+2. Create New Branch: git branch branch_name
+3. Switch between branch: git checkout branch_name
+4. Pushing Branch to Remote: git push -u origin branch_name
