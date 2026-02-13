@@ -1,0 +1,4 @@
+Steps for Git Push:
+GIT add . 
+git commit -m "Message"
+git push
